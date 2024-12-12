@@ -1,0 +1,440 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pp",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "pp",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "stopwords",
+        "importPath": "nltk.corpus",
+        "description": "nltk.corpus",
+        "isExtraImport": true,
+        "detail": "nltk.corpus",
+        "documentation": {}
+    },
+    {
+        "label": "stopwords",
+        "importPath": "nltk.corpus",
+        "description": "nltk.corpus",
+        "isExtraImport": true,
+        "detail": "nltk.corpus",
+        "documentation": {}
+    },
+    {
+        "label": "SentimentIntensityAnalyzer",
+        "importPath": "nltk.sentiment.vader",
+        "description": "nltk.sentiment.vader",
+        "isExtraImport": true,
+        "detail": "nltk.sentiment.vader",
+        "documentation": {}
+    },
+    {
+        "label": "SentimentIntensityAnalyzer",
+        "importPath": "nltk.sentiment.vader",
+        "description": "nltk.sentiment.vader",
+        "isExtraImport": true,
+        "detail": "nltk.sentiment.vader",
+        "documentation": {}
+    },
+    {
+        "label": "WordNetLemmatizer",
+        "importPath": "nltk.stem",
+        "description": "nltk.stem",
+        "isExtraImport": true,
+        "detail": "nltk.stem",
+        "documentation": {}
+    },
+    {
+        "label": "WordNetLemmatizer",
+        "importPath": "nltk.stem",
+        "description": "nltk.stem",
+        "isExtraImport": true,
+        "detail": "nltk.stem",
+        "documentation": {}
+    },
+    {
+        "label": "word_tokenize",
+        "importPath": "nltk.tokenize",
+        "description": "nltk.tokenize",
+        "isExtraImport": true,
+        "detail": "nltk.tokenize",
+        "documentation": {}
+    },
+    {
+        "label": "word_tokenize",
+        "importPath": "nltk.tokenize",
+        "description": "nltk.tokenize",
+        "isExtraImport": true,
+        "detail": "nltk.tokenize",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "TfidfVectorizer",
+        "importPath": "sklearn.feature_extraction.text",
+        "description": "sklearn.feature_extraction.text",
+        "isExtraImport": true,
+        "detail": "sklearn.feature_extraction.text",
+        "documentation": {}
+    },
+    {
+        "label": "MultinomialNB",
+        "importPath": "sklearn.naive_bayes",
+        "description": "sklearn.naive_bayes",
+        "isExtraImport": true,
+        "detail": "sklearn.naive_bayes",
+        "documentation": {}
+    },
+    {
+        "label": "nltk",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "nltk",
+        "description": "nltk",
+        "detail": "nltk",
+        "documentation": {}
+    },
+    {
+        "label": "Loader",
+        "importPath": "importlib.abc",
+        "description": "importlib.abc",
+        "isExtraImport": true,
+        "detail": "importlib.abc",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleSpec",
+        "importPath": "importlib.machinery",
+        "description": "importlib.machinery",
+        "isExtraImport": true,
+        "detail": "importlib.machinery",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "importlib.util",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "importlib.util",
+        "description": "importlib.util",
+        "detail": "importlib.util",
+        "documentation": {}
+    },
+    {
+        "label": "typing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "typing",
+        "description": "typing",
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess",
+        "kind": 2,
+        "importPath": "src.scripts.sentimento copy",
+        "description": "src.scripts.sentimento copy",
+        "peekOfCode": "def preprocess(text: str):\n    tokens = word_tokenize(text.lower())\n    filtered_tokens = [\n        token for token in tokens if token not in stopwords.words(\"english\")\n    ]\n    lemmatizer = WordNetLemmatizer()\n    lemmatized_tokens = [lemmatizer.lemmatize(token) for token in filtered_tokens]\n    return \" \".join(lemmatized_tokens)\ndef get_sentiment(text: str):\n    scores = analyzer.polarity_scores(text)",
+        "detail": "src.scripts.sentimento copy",
+        "documentation": {}
+    },
+    {
+        "label": "get_sentiment",
+        "kind": 2,
+        "importPath": "src.scripts.sentimento copy",
+        "description": "src.scripts.sentimento copy",
+        "peekOfCode": "def get_sentiment(text: str):\n    scores = analyzer.polarity_scores(text)\n    return 1 if scores[\"pos\"] > 0 else 0\n# if not os.path.exists(DATASET_PREPROCESS_PATH):\n#     df = pd.read_csv(DATASET_PATH)\n#     df[\"reviewText\"] = df[\"reviewText\"].apply(preprocess)\n#     df.to_csv(DATASET_PREPROCESS_PATH, index=False)\n# if not os.path.exists(DATASET_SENTIMENT_PATH):\n#     df = pd.read_csv(DATASET_PREPROCESS_PATH)\n#     df[\"reviewText\"] = df[\"reviewText\"].astype(str)",
+        "detail": "src.scripts.sentimento copy",
+        "documentation": {}
+    },
+    {
+        "label": "analyzer",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento copy",
+        "description": "src.scripts.sentimento copy",
+        "peekOfCode": "analyzer = SentimentIntensityAnalyzer()\nCUSTOMER_COMPLAINT = \"this product is not good and I am not happy with it\"\nDATASET_PATH = \"dataset/customer_complaints.csv\"\nDATASET_PREPROCESS_PATH = \"dataset/customer_complaints_preprocess.csv\"\nDATASET_SENTIMENT_PATH = \"dataset/customer_complaints_sentiment.csv\"\ndef preprocess(text: str):\n    tokens = word_tokenize(text.lower())\n    filtered_tokens = [\n        token for token in tokens if token not in stopwords.words(\"english\")\n    ]",
+        "detail": "src.scripts.sentimento copy",
+        "documentation": {}
+    },
+    {
+        "label": "CUSTOMER_COMPLAINT",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento copy",
+        "description": "src.scripts.sentimento copy",
+        "peekOfCode": "CUSTOMER_COMPLAINT = \"this product is not good and I am not happy with it\"\nDATASET_PATH = \"dataset/customer_complaints.csv\"\nDATASET_PREPROCESS_PATH = \"dataset/customer_complaints_preprocess.csv\"\nDATASET_SENTIMENT_PATH = \"dataset/customer_complaints_sentiment.csv\"\ndef preprocess(text: str):\n    tokens = word_tokenize(text.lower())\n    filtered_tokens = [\n        token for token in tokens if token not in stopwords.words(\"english\")\n    ]\n    lemmatizer = WordNetLemmatizer()",
+        "detail": "src.scripts.sentimento copy",
+        "documentation": {}
+    },
+    {
+        "label": "DATASET_PATH",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento copy",
+        "description": "src.scripts.sentimento copy",
+        "peekOfCode": "DATASET_PATH = \"dataset/customer_complaints.csv\"\nDATASET_PREPROCESS_PATH = \"dataset/customer_complaints_preprocess.csv\"\nDATASET_SENTIMENT_PATH = \"dataset/customer_complaints_sentiment.csv\"\ndef preprocess(text: str):\n    tokens = word_tokenize(text.lower())\n    filtered_tokens = [\n        token for token in tokens if token not in stopwords.words(\"english\")\n    ]\n    lemmatizer = WordNetLemmatizer()\n    lemmatized_tokens = [lemmatizer.lemmatize(token) for token in filtered_tokens]",
+        "detail": "src.scripts.sentimento copy",
+        "documentation": {}
+    },
+    {
+        "label": "DATASET_PREPROCESS_PATH",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento copy",
+        "description": "src.scripts.sentimento copy",
+        "peekOfCode": "DATASET_PREPROCESS_PATH = \"dataset/customer_complaints_preprocess.csv\"\nDATASET_SENTIMENT_PATH = \"dataset/customer_complaints_sentiment.csv\"\ndef preprocess(text: str):\n    tokens = word_tokenize(text.lower())\n    filtered_tokens = [\n        token for token in tokens if token not in stopwords.words(\"english\")\n    ]\n    lemmatizer = WordNetLemmatizer()\n    lemmatized_tokens = [lemmatizer.lemmatize(token) for token in filtered_tokens]\n    return \" \".join(lemmatized_tokens)",
+        "detail": "src.scripts.sentimento copy",
+        "documentation": {}
+    },
+    {
+        "label": "DATASET_SENTIMENT_PATH",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento copy",
+        "description": "src.scripts.sentimento copy",
+        "peekOfCode": "DATASET_SENTIMENT_PATH = \"dataset/customer_complaints_sentiment.csv\"\ndef preprocess(text: str):\n    tokens = word_tokenize(text.lower())\n    filtered_tokens = [\n        token for token in tokens if token not in stopwords.words(\"english\")\n    ]\n    lemmatizer = WordNetLemmatizer()\n    lemmatized_tokens = [lemmatizer.lemmatize(token) for token in filtered_tokens]\n    return \" \".join(lemmatized_tokens)\ndef get_sentiment(text: str):",
+        "detail": "src.scripts.sentimento copy",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess",
+        "kind": 2,
+        "importPath": "src.scripts.sentimento",
+        "description": "src.scripts.sentimento",
+        "peekOfCode": "def preprocess(text: str):\n    tokens = word_tokenize(text.lower())\n    filtered_tokens = [\n        token for token in tokens if token not in stopwords.words(\"english\")\n    ]\n    lemmatizer = WordNetLemmatizer()\n    lemmatized_tokens = [lemmatizer.lemmatize(token) for token in filtered_tokens]\n    return \" \".join(lemmatized_tokens)\ndef get_sentiment(text: str):\n    scores = analyzer.polarity_scores(text)",
+        "detail": "src.scripts.sentimento",
+        "documentation": {}
+    },
+    {
+        "label": "get_sentiment",
+        "kind": 2,
+        "importPath": "src.scripts.sentimento",
+        "description": "src.scripts.sentimento",
+        "peekOfCode": "def get_sentiment(text: str):\n    scores = analyzer.polarity_scores(text)\n    if scores[\"compound\"] >= 0.05:\n        return 1\n    if scores[\"compound\"] <= -0.05:\n        return -1\n    return 0\npp(get_sentiment(preprocess(CUSTOMER_COMPLAINT)))",
+        "detail": "src.scripts.sentimento",
+        "documentation": {}
+    },
+    {
+        "label": "analyzer",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento",
+        "description": "src.scripts.sentimento",
+        "peekOfCode": "analyzer = SentimentIntensityAnalyzer()\nCUSTOMER_COMPLAINT = \"this product is normal\"\nDATASET_PATH = \"dataset/customer_complaints.csv\"\nDATASET_PREPROCESS_PATH = \"dataset/customer_complaints_preprocess.csv\"\nDATASET_SENTIMENT_PATH = \"dataset/customer_complaints_sentiment.csv\"\ndef preprocess(text: str):\n    tokens = word_tokenize(text.lower())\n    filtered_tokens = [\n        token for token in tokens if token not in stopwords.words(\"english\")\n    ]",
+        "detail": "src.scripts.sentimento",
+        "documentation": {}
+    },
+    {
+        "label": "CUSTOMER_COMPLAINT",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento",
+        "description": "src.scripts.sentimento",
+        "peekOfCode": "CUSTOMER_COMPLAINT = \"this product is normal\"\nDATASET_PATH = \"dataset/customer_complaints.csv\"\nDATASET_PREPROCESS_PATH = \"dataset/customer_complaints_preprocess.csv\"\nDATASET_SENTIMENT_PATH = \"dataset/customer_complaints_sentiment.csv\"\ndef preprocess(text: str):\n    tokens = word_tokenize(text.lower())\n    filtered_tokens = [\n        token for token in tokens if token not in stopwords.words(\"english\")\n    ]\n    lemmatizer = WordNetLemmatizer()",
+        "detail": "src.scripts.sentimento",
+        "documentation": {}
+    },
+    {
+        "label": "DATASET_PATH",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento",
+        "description": "src.scripts.sentimento",
+        "peekOfCode": "DATASET_PATH = \"dataset/customer_complaints.csv\"\nDATASET_PREPROCESS_PATH = \"dataset/customer_complaints_preprocess.csv\"\nDATASET_SENTIMENT_PATH = \"dataset/customer_complaints_sentiment.csv\"\ndef preprocess(text: str):\n    tokens = word_tokenize(text.lower())\n    filtered_tokens = [\n        token for token in tokens if token not in stopwords.words(\"english\")\n    ]\n    lemmatizer = WordNetLemmatizer()\n    lemmatized_tokens = [lemmatizer.lemmatize(token) for token in filtered_tokens]",
+        "detail": "src.scripts.sentimento",
+        "documentation": {}
+    },
+    {
+        "label": "DATASET_PREPROCESS_PATH",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento",
+        "description": "src.scripts.sentimento",
+        "peekOfCode": "DATASET_PREPROCESS_PATH = \"dataset/customer_complaints_preprocess.csv\"\nDATASET_SENTIMENT_PATH = \"dataset/customer_complaints_sentiment.csv\"\ndef preprocess(text: str):\n    tokens = word_tokenize(text.lower())\n    filtered_tokens = [\n        token for token in tokens if token not in stopwords.words(\"english\")\n    ]\n    lemmatizer = WordNetLemmatizer()\n    lemmatized_tokens = [lemmatizer.lemmatize(token) for token in filtered_tokens]\n    return \" \".join(lemmatized_tokens)",
+        "detail": "src.scripts.sentimento",
+        "documentation": {}
+    },
+    {
+        "label": "DATASET_SENTIMENT_PATH",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento",
+        "description": "src.scripts.sentimento",
+        "peekOfCode": "DATASET_SENTIMENT_PATH = \"dataset/customer_complaints_sentiment.csv\"\ndef preprocess(text: str):\n    tokens = word_tokenize(text.lower())\n    filtered_tokens = [\n        token for token in tokens if token not in stopwords.words(\"english\")\n    ]\n    lemmatizer = WordNetLemmatizer()\n    lemmatized_tokens = [lemmatizer.lemmatize(token) for token in filtered_tokens]\n    return \" \".join(lemmatized_tokens)\ndef get_sentiment(text: str):",
+        "detail": "src.scripts.sentimento",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento_ml",
+        "description": "src.scripts.sentimento_ml",
+        "peekOfCode": "df = pd.read_csv(DATASET_PREPROCESS_PATH)\n# Vetorização\nvectorizer = TfidfVectorizer()\nX = vectorizer.fit_transform(df['complaint_text'])\ny = df['sentiment']\n# Divisão de dados\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)\n# Treinamento do modelo\nmodel = MultinomialNB()\nmodel.fit(X_train, y_train)",
+        "detail": "src.scripts.sentimento_ml",
+        "documentation": {}
+    },
+    {
+        "label": "vectorizer",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento_ml",
+        "description": "src.scripts.sentimento_ml",
+        "peekOfCode": "vectorizer = TfidfVectorizer()\nX = vectorizer.fit_transform(df['complaint_text'])\ny = df['sentiment']\n# Divisão de dados\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)\n# Treinamento do modelo\nmodel = MultinomialNB()\nmodel.fit(X_train, y_train)\n# Predição e avaliação\ny_pred = model.predict(X_test)",
+        "detail": "src.scripts.sentimento_ml",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento_ml",
+        "description": "src.scripts.sentimento_ml",
+        "peekOfCode": "X = vectorizer.fit_transform(df['complaint_text'])\ny = df['sentiment']\n# Divisão de dados\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)\n# Treinamento do modelo\nmodel = MultinomialNB()\nmodel.fit(X_train, y_train)\n# Predição e avaliação\ny_pred = model.predict(X_test)\nprint(confusion_matrix(y_test, y_pred))",
+        "detail": "src.scripts.sentimento_ml",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento_ml",
+        "description": "src.scripts.sentimento_ml",
+        "peekOfCode": "y = df['sentiment']\n# Divisão de dados\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)\n# Treinamento do modelo\nmodel = MultinomialNB()\nmodel.fit(X_train, y_train)\n# Predição e avaliação\ny_pred = model.predict(X_test)\nprint(confusion_matrix(y_test, y_pred))\nprint(classification_report(y_test, y_pred))",
+        "detail": "src.scripts.sentimento_ml",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento_ml",
+        "description": "src.scripts.sentimento_ml",
+        "peekOfCode": "model = MultinomialNB()\nmodel.fit(X_train, y_train)\n# Predição e avaliação\ny_pred = model.predict(X_test)\nprint(confusion_matrix(y_test, y_pred))\nprint(classification_report(y_test, y_pred))\nnew_text = \"This product is awful, I want a refund!\"\nprocessed_text = preprocess(new_text)\nvectorized_text = vectorizer.transform([processed_text])\npredicted_sentiment = model.predict(vectorized_text)",
+        "detail": "src.scripts.sentimento_ml",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento_ml",
+        "description": "src.scripts.sentimento_ml",
+        "peekOfCode": "y_pred = model.predict(X_test)\nprint(confusion_matrix(y_test, y_pred))\nprint(classification_report(y_test, y_pred))\nnew_text = \"This product is awful, I want a refund!\"\nprocessed_text = preprocess(new_text)\nvectorized_text = vectorizer.transform([processed_text])\npredicted_sentiment = model.predict(vectorized_text)\nprint(f\"Sentimento previsto: {predicted_sentiment}\")",
+        "detail": "src.scripts.sentimento_ml",
+        "documentation": {}
+    },
+    {
+        "label": "new_text",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento_ml",
+        "description": "src.scripts.sentimento_ml",
+        "peekOfCode": "new_text = \"This product is awful, I want a refund!\"\nprocessed_text = preprocess(new_text)\nvectorized_text = vectorizer.transform([processed_text])\npredicted_sentiment = model.predict(vectorized_text)\nprint(f\"Sentimento previsto: {predicted_sentiment}\")",
+        "detail": "src.scripts.sentimento_ml",
+        "documentation": {}
+    },
+    {
+        "label": "processed_text",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento_ml",
+        "description": "src.scripts.sentimento_ml",
+        "peekOfCode": "processed_text = preprocess(new_text)\nvectorized_text = vectorizer.transform([processed_text])\npredicted_sentiment = model.predict(vectorized_text)\nprint(f\"Sentimento previsto: {predicted_sentiment}\")",
+        "detail": "src.scripts.sentimento_ml",
+        "documentation": {}
+    },
+    {
+        "label": "vectorized_text",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento_ml",
+        "description": "src.scripts.sentimento_ml",
+        "peekOfCode": "vectorized_text = vectorizer.transform([processed_text])\npredicted_sentiment = model.predict(vectorized_text)\nprint(f\"Sentimento previsto: {predicted_sentiment}\")",
+        "detail": "src.scripts.sentimento_ml",
+        "documentation": {}
+    },
+    {
+        "label": "predicted_sentiment",
+        "kind": 5,
+        "importPath": "src.scripts.sentimento_ml",
+        "description": "src.scripts.sentimento_ml",
+        "peekOfCode": "predicted_sentiment = model.predict(vectorized_text)\nprint(f\"Sentimento previsto: {predicted_sentiment}\")",
+        "detail": "src.scripts.sentimento_ml",
+        "documentation": {}
+    }
+]

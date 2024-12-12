@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[scripts]
+start = "python main.py"
+download = "python download.py"
+format = "isort src && black src"
+
+[packages]
+nltk = "*"
+pandas = "*"
+scikit-learn = "*"
+
+[dev-packages]
+isort = "*"
+black = "*"
+
+[requires]
+python_version = "3.12"
